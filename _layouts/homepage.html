@@ -1,6 +1,6 @@
 ---
 layout: base
-assetpath: "assets"
+rootpath: ""
 ---
 	<article>
 		<div class="container">
@@ -14,3 +14,37 @@ assetpath: "assets"
 			</div>
 		</div>
 	</article>
+	<div class="container">
+		<div class="sixteen columns">
+	<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'search',
+  search: '#hazmcr',
+  interval: 30000,
+  title: 'Latest tweets',
+  subject: '#hazmcr',
+  width: 'auto',
+  height: 300,
+  theme: {
+    shell: {
+      background: '#ffdd00',
+      color: '#000000'
+    },
+    tweets: {
+      background: '#ffdd00',
+      color: '#000000',
+      links: '#ffffff'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: true,
+    live: true,
+    behavior: 'default'
+  }
+}).render().start();
+</script>
+			</div>
+		</div>

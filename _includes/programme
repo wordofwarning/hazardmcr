@@ -1,6 +1,6 @@
 <h4>1pm</h4>
 {% for link in site.1pm %}
-	<a href="{{ link }}/index.html">{{ link }}</a>
+	<a href="{{ page.rootpath }}{{ link }}/index.html">{{ link }}</a>
 {% endfor %}
 
 

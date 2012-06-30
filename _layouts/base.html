@@ -1,4 +1,5 @@
 ---
+analytics: UA-29103047-1
 mailer_signup_url: http://eepurl.com/i_Odb
 ---
 
@@ -13,9 +14,9 @@ mailer_signup_url: http://eepurl.com/i_Odb
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<link rel="stylesheet" href="{{page.assetpath}}/stylesheets/base.css">
-	<link rel="stylesheet" href="{{page.assetpath}}/stylesheets/skeleton.css">
-	<link rel="stylesheet" href="{{page.assetpath}}/stylesheets/layout.css">
+	<link rel="stylesheet" href="{{page.rootpath}}assets/stylesheets/base.css">
+	<link rel="stylesheet" href="{{page.rootpath}}assets/stylesheets/skeleton.css">
+	<link rel="stylesheet" href="{{page.rootpath}}assets/stylesheets/layout.css">
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -24,6 +25,13 @@ mailer_signup_url: http://eepurl.com/i_Odb
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
+	<header>
+		<div class="container">
+			<div class="sixteen columns">
+				<h1><a href="{{ page.rootpath }}index.html">Hazard</a></h1>
+			</div>
+		</div>
+	</header>
 	{{content}}
 	<footer>
 		<div class="container">
@@ -39,7 +47,7 @@ mailer_signup_url: http://eepurl.com/i_Odb
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-29103047-1']);
+  _gaq.push(['_setAccount', '{{ page.analytics }}']);
   _gaq.push(['_trackPageview']);
 
   (function() {
