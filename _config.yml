@@ -1,2 +1,27 @@
 auto: true
 permalink: /:title.html
+
+# put the programme artist surnames (same as used for the folder names) below here
+# note that each line begins with a tab, a hyphen and a space, like so
+#   - artist
+
+1pm: 
+    - artist
+    - artiste
+    - bart-iste
+    - cartiste
+    - dartiste
+    - eartiste
+    - fartiste
+    
+2pm: 
+    - artist
+
+3pm: 
+    - artist
+
+4pm: 
+    - artist
+
+5pm: 
+    - artist
