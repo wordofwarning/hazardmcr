@@ -1,19 +1,26 @@
 ---
-layout: base
+layout: shared
 assetpath: "../assets"
 rootpath: "../"
 ---
-	<article>
-		<div class="container">
-			<div class="sixteen columns">
-				<h1>{{ page.artist }}</h1>
-				<h2>{{ page.title }}</h2>
-				<h3>{{ page.time }} {{ page.place }}</h3>
-			</div>
-		</div>
+	<article class="artiste">
+
 		<div class="container">
 			<div class="two-thirds column">
-			{{ content }}
+				<div class="show">
+					<h1>{{ page.artist }}</h1>
+					<h1><em>{{ page.title }}</em></h1>
+					<h2 class="details"><strong>{{ page.time }}</strong> {{ page.place }}</h2>
+				</div>
+				<div class="bodycopy">
+				{{ content }}
+				{% if page.hatch %}
+					<img src="../assets/images/hatch.png">
+				{% endif %}
+				{% if page.larkin %}
+					<img src="../assets/images/larkin.png">
+				{% endif %}
+				</div>
 			</div>
 			<div class="one-third column">
 			{% include programme %}

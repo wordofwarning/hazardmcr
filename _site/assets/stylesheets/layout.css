@@ -20,10 +20,86 @@
 /* COLOURS
 ================================================== */
 
-body 	{background: #fd0; color: #000 !important;}
-footer 	{background: #fff}
-
+body
+	{background: #fd0; color: #000 !important;}
+h1, h2, h3, h4, h5, strong 	
+	{color: #000 !important;}
+footer 	
+	{background: #fff}
+header h1 a, header h2 a
+	{color: #000 !important;}
+header h1 a:hover, header h2 a:hover
+	{color: #000 !important;}
+/* .show h2, .show h2 strong
+	{color: #fff; background: #000;  padding:0px 20px;} */
+.programme a, .programme a:visited
+	{color:#000;}
+.programme a:hover
+	{color: #fff; background: #000;}
 /* STRUCTURE
 ================================================== */
 
-header, article, footer {padding: 54px 0;}
+body 
+	{font-family: "minion-pro", Georgia, Times;}
+header, article, footer 
+	{padding: 54px 0;}
+header h1 a, header h2 a
+	{text-decoration:none;}
+header h1
+	{font-size:72px;}
+header h2
+	{font-size:36px; top: -8px; position:relative;}
+header h3
+	{font-size:24px; margin:24px 0 5px 0;}
+.show h1
+	{font-size:48px;}
+.show h2
+	{font-size:21px;}
+.bodycopy
+	{font-size:21px; line-height:27px;}
+.artiste .programme
+	{margin-top:25px;}
+.programme
+	{font-size:18px; line-height:27px;}
+.programme h3
+	{font-size:24px; line-height:27px;}
+.programme h4
+	{font-size:21px; line-height:27px;}
+.programme a
+	{padding: 0 5px; text-decoration:none; font-weight:bold}
+.hour
+	{padding-bottom:27px;}
+footer
+	{font-size:16px; line-height:21px;}
+footer a
+	{font-weight: bold;}
+footer h5
+	{font-weight: bold; font-size:21px; line-height:27px;}
+@media only screen and (max-width: 767px) {
+	footer .two-thirds
+		{padding-bottom: 27px;}
+}
+/* homepage  */
+.twitter 
+	{background: #000; color: #fd0;}
+	
+@media only screen and (max-width: 767px) {
+	header
+		{background: #fff}
+}
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body
+		{background: #fd0 url(../images/angle_small.png) center top no-repeat}
+}
+@media only screen and (min-width: 960px) and (max-width: 1399px) {
+	body
+		{background: #fd0 url(../images/angle_medium.png) center top no-repeat}
+}
+@media only screen and (min-width: 1400px) and (max-width: 1599px) {
+	body
+		{background: #fd0 url(../images/angle_large.png) center top no-repeat}
+}
+@media only screen and (min-width: 1600px) {
+	header
+		{background: #fff}
+}

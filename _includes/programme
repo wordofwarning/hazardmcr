@@ -1,25 +1,37 @@
-<h4>1pm</h4>
-{% for link in site.1pm %}
-	<a href="{{ page.rootpath }}{{ link }}/index.html">{{ link }}</a>
-{% endfor %}
+<div class="programme">
+	<h3><em>What's on</em></h3>
+	<div class="hour">
+	<h4>1pm</h4>
+	{% for link in site.1pm %}
+		<a href="{{ page.rootpath }}{{ link }}/index.html">{{ link }}</a>
+	{% endfor %}
+	</div>
 
+<div class="hour">
+	<h4>2pm</h4>
+	{% for link in site.2pm %}
+		<a href="{{ link }}/index.html">{{ link }}</a>
+	{% endfor %}
+	</div>
 
-<h4>2pm</h4>
-{% for link in site.2pm %}
-	<a href="{{ link }}/index.html">{{ link }}</a>
-{% endfor %}
+<div class="hour">
+	<h4>3pm</h4>
+	{% for link in site.3pm %}
+		<a href="{{ link }}/index.html">{{ link }}</a>
+		{% endfor %}
+		</div>
 
-<h4>3pm</h4>
-{% for link in site.3pm %}
-	<a href="{{ link }}/index.html">{{ link }}</a>
-{% endfor %}
+<div class="hour">
+	<h4>4pm</h4>
+	{% for link in site.4pm %}
+		<a href="{{ link }}/index.html">{{ link }}</a>
+	{% endfor %}
+	</div>
 
-<h4>4pm</h4>
-{% for link in site.4pm %}
-	<a href="{{ link }}/index.html">{{ link }}</a>
-{% endfor %}
-
-<h4>5pm</h4>
-{% for link in site.5pm %}
-	<a href="{{ link }}/index.html">{{ link }}</a>
-{% endfor %}
+<div class="hour">
+	<h4>5pm</h4>
+	{% for link in site.5pm %}
+		<a href="{{ link }}/index.html">{{ link }}</a>
+	{% endfor %}
+	</div>
+</div>

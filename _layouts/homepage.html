@@ -1,19 +1,20 @@
 ---
-layout: base
+layout: shared
 rootpath: ""
 ---
-	<article>
+	<article class="home">
 		<div class="container">
-			<div class="sixteen columns">
-			{{ content }}
+			<div class="two-thirds column">
+				<div class="bodycopy">
+				{{ content }}
+				</div>
 			</div>
-		</div>
-		<div class="container">
-			<div class="sixteen columns">
+			<div class="one-third column">
 			{% include programme %}
 			</div>
 		</div>
 	</article>
+	<article class="twitter">
 	<div class="container">
 		<div class="sixteen columns">
 	<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
@@ -48,3 +49,4 @@ new TWTR.Widget({
 </script>
 			</div>
 		</div>
+	</article>
