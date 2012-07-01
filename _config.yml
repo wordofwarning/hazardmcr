@@ -1,27 +1,29 @@
 auto: true
 permalink: /:title.html
 
-# put the programme artist surnames (same as used for the folder names) below here
-# note that each line begins with a tab, a hyphen and a space, like so
-#   - artist
+# note the formatting here needs care:
+# tab, hyphen, braces
+# inside the braces, NB
+#   - the space between the key and the value
+#   - the comme after the folder
+#   - the inverted commas around the name value
+#
+# for example:
+#
+#    - {folder: example_artist, name: "Example"}
 
 1pm: 
-    - artist
-    - artiste
-    - bart-iste
-    - cartiste
-    - dartiste
-    - eartiste
-    - fartiste
+    - {folder: example_artist, name: "Example"}
+    - {folder: artist, name: "Also an Example / Long Company Name"}
     
 2pm: 
-    - artist
+    - {folder: example_artist, name: "Example"}
 
 3pm: 
-    - artist
+    - {folder: example_artist, name: "Different Name"}
 
 4pm: 
-    - artist
+    - {folder: example_artist, name: "Example"}
 
 5pm: 
-    - artist
+    - {folder: example_artist, name: "Example"}

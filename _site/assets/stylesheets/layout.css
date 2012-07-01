@@ -55,6 +55,8 @@ header h3
 	{font-size:48px;}
 .show h2
 	{font-size:21px;}
+.show img
+	{margin: 0px 0 10px 0;}
 .bodycopy
 	{font-size:21px; line-height:27px;}
 .artiste .programme
@@ -66,7 +68,7 @@ header h3
 .programme h4
 	{font-size:21px; line-height:27px;}
 .programme a
-	{padding: 0 5px; text-decoration:none; font-weight:bold}
+	{padding: 0 10px 0 0; text-decoration:none; font-weight:bold}
 .hour
 	{padding-bottom:27px;}
 footer
