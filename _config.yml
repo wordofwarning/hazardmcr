@@ -1,65 +1,48 @@
 auto: true
 permalink: /:title.html
 
-# note the formatting here needs care:
-# tab, hyphen, braces
-# inside the braces, NB
-#   - the space between the key and the value
-#   - the comme after the folder
-#   - the inverted commas around the name value
-#
-#   - folder = the name of the artist folder (lowercase, no spaces)
-#   - name = the artist name
-#
-#   Artists appear on the website in the same order that they appear here 
-#
-# for example:
-#
-#    - {folder: example_artist, name: "Example"}
-
-allday:
-    - {folder: beavis, name: "Amelia Beavis-Harrison"}
-    - {folder: bidolak, name: "Alex Bidolak"}
-    - {folder: burn, name: "sean burn"}
-    - {folder: burrow, name: "Julie Burrow / Dangerous Times"}
-    - {folder: cutter, name: "Gareth Cutter"}
-    - {folder: lembranca, name: "Rea Dennis / Lembrança UK"}
-    - {folder: foster, name: "Anette Foster"}
-    - {folder: agfkf, name: "Alice Gale-Feeney and Katherine Fishman"}
-    - {folder: gramophones, name: "The Gramophones"}
-    - {folder: hamblen, name: "Martin Hamblen"}
-    - {folder: larkin, name: "Larkin About"}
-    - {folder: liquid, name: "Liquid"}
-    - {folder: mautner, name: "Jessica Mautner"}
-    - {folder: parry, name: "Rachel Parry"}
-    - {folder: pinchbeck, name: "Michael Pinchbeck"}
-    - {folder: raven, name: "Simon Raven"}
-    - {folder: shrug, name: "Shrug"}
-    - {folder: smith, name: "Nicola Smith"}
-    - {folder: smykla, name: "Harald Smykla"}
-    - {folder: zoo, name: "Zoo Indigo"}
-
-12pm: 
-    - {folder: cochrane, name: "Claire Cochrane"}
-    - {folder: smallthings, name: "Small Things"}
-
-1pm: 
-    - {folder: aitchison, name: "Bill Aitchison"}
-    - {folder: cochrane, name: "Claire Cochrane"}
-    - {folder: jeeves, name: "Tim Jeeves"}    
-    - {folder: radeva, name: "Katherina Radeva"}
-    - {folder: smallthings, name: "Small Things"}
-    
-2pm: 
-    - {folder: jeeves, name: "Tim Jeeves"} 
-    - {folder: smallthings, name: "Small Things"}
-
-3pm: 
-    - {folder: jeeves, name: "Tim Jeeves"} 
-    - {folder: smallthings, name: "Small Things"}
-
-4pm: 
-    - {folder: jeeves, name: "Tim Jeeves"} 
-
-
-5pm: 
+schedule:
+    -   label: "<em>What's on:</em> All Day"
+        artists:
+            - {folder: beavis, name: "Amelia Beavis-Harrison"}
+            - {folder: bidolak, name: "Alex Bidolak"}
+            - {folder: burn, name: "sean burn"}
+            - {folder: burrow, name: "Julie Burrow / Dangerous Times"}
+            - {folder: cutter, name: "Gareth Cutter"}
+            - {folder: lembranca, name: "Rea Dennis / Lembrança UK"}
+            - {folder: foster, name: "Anette Foster"}
+            - {folder: agfkf, name: "Alice Gale-Feeney and Katherine Fishman"}
+            - {folder: gramophones, name: "The Gramophones"}
+            - {folder: hamblen, name: "Martin Hamblen"}
+            - {folder: larkin, name: "Larkin About"}
+            - {folder: liquid, name: "Liquid"}
+            - {folder: mautner, name: "Jessica Mautner"}
+            - {folder: parry, name: "Rachel Parry"}
+            - {folder: pinchbeck, name: "Michael Pinchbeck"}
+            - {folder: raven, name: "Simon Raven"}
+            - {folder: shrug, name: "Shrug"}
+            - {folder: smith, name: "Nicola Smith"}
+            - {folder: smykla, name: "Harald Smykla"}
+            - {folder: zoo, name: "Zoo Indigo"}
+    -   label: "12pm"
+        artists:
+            - {folder: cochrane, name: "Claire Cochrane"}
+            - {folder: smallthings, name: "Small Things"}
+    -   label: "1pm"
+        artists:
+            - {folder: aitchison, name: "Bill Aitchison"}
+            - {folder: cochrane, name: "Claire Cochrane"}
+            - {folder: jeeves, name: "Tim Jeeves"}    
+            - {folder: radeva, name: "Katherina Radeva"}
+            - {folder: smallthings, name: "Small Things"}
+    -   label: "2pm"
+        artists:
+            - {folder: jeeves, name: "Tim Jeeves"} 
+            - {folder: smallthings, name: "Small Things"}
+    -   label: "3pm"
+        artists:
+            - {folder: jeeves, name: "Tim Jeeves"} 
+            - {folder: smallthings, name: "Small Things"}
+    -   label: "4pm"
+        artists:
+            - {folder: jeeves, name: "Tim Jeeves"}
