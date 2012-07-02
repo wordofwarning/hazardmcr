@@ -62,15 +62,13 @@ header h3
 .artiste .programme
 	{margin-top:25px;}
 .programme
-	{font-size:18px; line-height:27px;}
-.programme h3
-	{font-size:24px; line-height:27px;}
+	{font-size:18px; line-height:21px;}
 .programme h4
-	{font-size:21px; line-height:27px;}
+	{font-size:21px; line-height:27px; font-weight:bold; }
 .programme a
-	{padding: 0 10px 0 10px; text-decoration:none; font-weight:bold; white-space:nowrap;}
+	{padding: 0 10px 0 10px; text-decoration:none; white-space:nowrap;}
 .hour
-	{padding-bottom:27px;}
+	{padding-bottom:10px;}
 footer
 	{font-size:16px; line-height:21px;}
 footer a

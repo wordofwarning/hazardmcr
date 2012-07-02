@@ -8,15 +8,31 @@ permalink: /:title.html
 #   - the comme after the folder
 #   - the inverted commas around the name value
 #
+#   - folder = the name of the artist folder (lowercase, no spaces)
+#   - name = the artist name
+#
+#   Artists appear on the website in the same order that they appear here 
+#
 # for example:
 #
 #    - {folder: example_artist, name: "Example"}
 
 allday:
     - {folder: beavis, name: "Amelia Beavis-Harrison"}
+    - {folder: bidolak, name: "Alex Bidolak"}
     - {folder: burn, name: "sean burn"}
+    - {folder: burrow, name: "Julie Burrow / Dangerous Times"}
+    - {folder: cutter, name: "Gareth Cutter"}
+    - {folder: lembranca, name: "Rea Dennis / Lembrança UK"}
+    - {folder: foster, name: "Anette Foster"}
+    - {folder: agfkf, name: "Alice Gale-Feeney and Katherine Fishman"}
+    - {folder: gramophones, name: "The Gramophones"}
+    - {folder: larkin, name: "Larkin About"}
     - {folder: liquid, name: "Liquid"}
+    - {folder: hamblen, name: "Martin Hamblen"}
+    - {folder: mautner, name: "Jessica Mautner"}
     - {folder: smith, name: "Nicola Smith"}
+    - {folder: smykla, name: "Harald Smykla"}
 
 12pm: 
     - {folder: cochrane, name: "Claire Cochrane"}

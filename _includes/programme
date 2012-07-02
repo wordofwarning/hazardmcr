@@ -40,11 +40,12 @@
 			<a href="{{ page.rootpath }}{{ link.folder }}/index.html">{{ link.name }}</a>
 		{% endfor %}
 	</div>
-
+	<!--
 	<div class="hour">
 		<h4>5pm</h4>
 		{% for link in site.5pm %}
 			<a href="{{ page.rootpath }}{{ link.folder }}/index.html">{{ link.name }}</a>
 		{% endfor %}
 	</div>
+	-->
 </div>
