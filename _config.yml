@@ -27,12 +27,17 @@ allday:
     - {folder: foster, name: "Anette Foster"}
     - {folder: agfkf, name: "Alice Gale-Feeney and Katherine Fishman"}
     - {folder: gramophones, name: "The Gramophones"}
+    - {folder: hamblen, name: "Martin Hamblen"}
     - {folder: larkin, name: "Larkin About"}
     - {folder: liquid, name: "Liquid"}
-    - {folder: hamblen, name: "Martin Hamblen"}
     - {folder: mautner, name: "Jessica Mautner"}
+    - {folder: parry, name: "Rachel Parry"}
+    - {folder: pinchbeck, name: "Michael Pinchbeck"}
+    - {folder: raven, name: "Simon Raven"}
+    - {folder: shrug, name: "Shrug"}
     - {folder: smith, name: "Nicola Smith"}
     - {folder: smykla, name: "Harald Smykla"}
+    - {folder: zoo, name: "Zoo Indigo"}
 
 12pm: 
     - {folder: cochrane, name: "Claire Cochrane"}
