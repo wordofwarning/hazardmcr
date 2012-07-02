@@ -1,10 +1,10 @@
 ---
 layout: artist
 
-artist: Example Artist
-title: Show Title
-time: 12-5pm
-place: St Ann's Square
+artist: Tim Jeeves
+title: Dying for my Art (A gift that hurts)
+time: 1-4pm
+place: St Ann's Sq / Old Bank St Chambers
 
 hatch: false
 larkin: false

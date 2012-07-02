@@ -1,10 +1,10 @@
 ---
 layout: artist
 
-artist: Example Artist
-title: Show Title
-time: 12-5pm
-place: St Ann's Square
+artist: Claire Cochrane
+title: Democracy Outside
+time: 12-2pm
+place: Piccadilly Gardens / St Ann's Sq
 
 hatch: false
 larkin: false

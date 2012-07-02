@@ -1,10 +1,10 @@
 ---
 layout: artist
 
-artist: Example Artist
-title: Show Title
-time: 12-5pm
-place: St Ann's Square
+artist: Bill Aitchison
+title: 2012
+time: 1-2pm
+place: Outside Marks and Spencer
 
 hatch: false
 larkin: false

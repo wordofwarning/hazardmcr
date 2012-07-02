@@ -1,8 +1,8 @@
 ---
 layout: artist
 
-artist: Example Artist
-title: Show Title
+artist: Nicola Smith
+title: Mobile Billboard
 time: 12-5pm
 place: St Ann's Square
 

@@ -1,8 +1,8 @@
 ---
 layout: artist
 
-artist: Example Artist
-title: Show Title
+artist: Amelia Beavis-Harrison
+title: The Lion and the Unicorn
 time: 12-5pm
 place: St Ann's Square
 

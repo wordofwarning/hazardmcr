@@ -12,18 +12,33 @@ permalink: /:title.html
 #
 #    - {folder: example_artist, name: "Example"}
 
+allday:
+    - {folder: beavis, name: "Amelia Beavis-Harrison"}
+    - {folder: burn, name: "sean burn"}
+    - {folder: liquid, name: "Liquid"}
+    - {folder: smith, name: "Nicola Smith"}
+
+12pm: 
+    - {folder: cochrane, name: "Claire Cochrane"}
+    - {folder: smallthings, name: "Small Things"}
+
 1pm: 
-    - {folder: example_artist, name: "Example"}
-    - {folder: artist, name: "Also an Example / Long Company Name"}
+    - {folder: aitchison, name: "Bill Aitchison"}
+    - {folder: cochrane, name: "Claire Cochrane"}
+    - {folder: jeeves, name: "Tim Jeeves"}    
+    - {folder: radeva, name: "Katherina Radeva"}
+    - {folder: smallthings, name: "Small Things"}
     
 2pm: 
-    - {folder: example_artist, name: "Example"}
+    - {folder: jeeves, name: "Tim Jeeves"} 
+    - {folder: smallthings, name: "Small Things"}
 
 3pm: 
-    - {folder: example_artist, name: "Different Name"}
+    - {folder: jeeves, name: "Tim Jeeves"} 
+    - {folder: smallthings, name: "Small Things"}
 
 4pm: 
-    - {folder: example_artist, name: "Example"}
+    - {folder: jeeves, name: "Tim Jeeves"} 
+
 
 5pm: 
-    - {folder: example_artist, name: "Example"}

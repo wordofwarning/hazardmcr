@@ -1,9 +1,9 @@
 ---
 layout: artist
 
-artist: Example Artist
-title: Show Title
-time: 12-5pm
+artist: Small Things
+title: You Tell Me Yours
+time: 12-3pm
 place: St Ann's Square
 
 hatch: false

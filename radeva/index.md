@@ -1,9 +1,9 @@
 ---
 layout: artist
 
-artist: Example Artist
-title: Show Title
-time: 12-5pm
+artist: Katherina Radeva
+title: "Kitty has no pity: the art of not giving up"
+time: 1-2pm
 place: St Ann's Square
 
 hatch: false

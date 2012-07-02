@@ -1,8 +1,8 @@
 ---
 layout: artist
 
-artist: Example Artist
-title: Show Title
+artist: Liquid
+title: What's the point?
 time: 12-5pm
 place: St Ann's Square
 

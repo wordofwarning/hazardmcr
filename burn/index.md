@@ -1,8 +1,8 @@
 ---
 layout: artist
 
-artist: Example Artist
-title: Show Title
+artist: sean burn
+title: espoir
 time: 12-5pm
 place: St Ann's Square
 
