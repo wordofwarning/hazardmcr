@@ -1,14 +1,13 @@
 ---
 layout: artist
 
-
 artist: Example Artist
 title: Show Title
 time: 2-4pm
-place: In the gazeebo
+place: In the gazebo
 
 hatch: false
-larkin: true
+larkin: false
 
 ---
 
