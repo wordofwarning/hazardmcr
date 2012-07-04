@@ -3,7 +3,7 @@ layout: artist
 
 artist: Claire Cochrane
 title: Democracy Outside
-time: 12-2pm
+time: 1-3pm
 place: Piccadilly Gardens / St Ann's Sq
 
 hatch: false
@@ -11,10 +11,14 @@ larkin: false
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+1-1.45pm Piccadilly Gardens   
+2-2.45pm St Ann's Square   
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+A group of protesters, placards and banners in hand, cluster together in usual formation… Seemingly without cause, they beg the question "what are you protesting?" Blurring the boundaries of art and activism they invite you to break out of your apathy and join them in a new demonstration of democracy.   
 
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+![Democracy Outside](demo2.jpg)
 
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+Artist and activist Clare Cochrane works in and with communities to explore and activate community relationships in the face of demographic and economic change.  Her work in the historic Jericho area of Oxford can be seen [here](http://openingtheheartofjericho.wordpress.com). Other recent work includes *Honest & True*, an audio installation for OVADA at Oxford Town Hall in December 2011.   
+
+
+![Democracy Outside](demo5.jpg)

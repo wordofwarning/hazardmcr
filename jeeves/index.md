@@ -4,17 +4,19 @@ layout: artist
 artist: Tim Jeeves
 title: Dying for my Art (A gift that hurts)
 time: 1-4pm
-place: St Ann's Sq / Old Bank St Chambers
+place: St Ann's Square 
 
 hatch: false
 larkin: false
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+*What does it mean to give something that harms the recipient? To make a gift of something that hurts?*       
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Cigarettes are one of the most readily given gifts. So much so that we barely recognise them as such. Stand outside most pubs on a Saturday night and you won't have to wait long to hear someone ask for a fag.    
+     
+Throughout the afternoon, Tim Jeeves is offering cigarettes to whoever wants to join him, inviting the public to sacrifice themselves in order to make his art.   
+	
+Tim Jeeves is a Liverpool based artist who has presented work throughout the UK and internationally.   Co-founder of the Grunts for the Arts collective, his recent solo work has addressed economies of gift and generosity and include curating and producing the Giving in to Gift platform in Liverpool.   
 
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+![Dying for my Art](TimJeeves.jpg)
