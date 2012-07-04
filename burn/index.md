@@ -15,6 +15,6 @@ espoir stands barefoot, dressed in black, a briefcase at his feet, the word 'hop
 
 espoir stands surveying the passers-by, looking for a connection, for a glance and for a chance to connect.    
 	
-sean burn is a writer, performer and outsider artist with a growing international reputation. Actively involved in disability arts, he was shortlisted for a dadafest award in both 2009 + 2011.  Former artist in residence at the New Gallery, Walsall, his writing has been widely published and performed.  Live art work includes an upcoming DIY commission for Live Art Development Agency.
+sean burn is a writer, performer and outsider artist with a growing international reputation. Actively involved in disability arts, he was shortlisted for a dadafest award in 2009.  Former artist in residence at the New Gallery, Walsall, his writing has been widely published and performed.  Live art work includes an upcoming DIY commission for Live Art Development Agency.
 
 ![sean burn](seanburn.jpg)
