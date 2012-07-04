@@ -3,7 +3,7 @@ layout: artist
 
 artist: Bill Aitchison
 title: 2012
-time: 1-2pm
+time: 2-3pm
 place: Outside Marks and Spencer
 
 hatch: false
@@ -11,10 +11,10 @@ larkin: false
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+Created in London and Beijing, 2012 is a soapbox performance evoking a world where conspiracy theories, propaganda, science, art and politics cross over with one another to become indistinguishable.    
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Bill Aitchison is a performance artist who has presented his performances, soundworks and videos in galleries, theatres and festivals in Europe, Asia, America and The Middle East. He is well known as a writer and performer through collaborative projects in Europe and the US, has published critical articles and reviews in several countries and has made a number of pieces for radio.   
 
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+2012 was created with James Dunn (sound) and Boris Kahnery (light) and developed with the support of Arts Council England, Institute for Provocation Beijing, Burton Taylor Studio Oxford and Chisenhale Dance Space London. 
 
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+  ![2012](Bill Aitchison 2012-e.jpg)  
