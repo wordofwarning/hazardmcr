@@ -2,7 +2,7 @@
 layout: artist
 
 artist: Harald Smykla
-title: Face Value Currency X Change Manchester
+title: FACE VALUE Currency X Change Manchester
 time: 12-5pm
 place: St Ann's Square
 
@@ -11,10 +11,10 @@ larkin: false
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+A much-needed contemporary makeover for our paper currency, 'still graced by features of figures from the past'.  From his *FACE VALUE Currency X Change* desk, Harald Smykla will invite members of the public to sit for some extraordinary portrait drawings that will 're-face' real banknotes with the features of real Mancunians.     
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+For one afternoon, British money can claim to represent the diversity of British society in the 21st century.	   
 
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+Harald Smykla is a German artist based in London. His time- and context-specific practice merges notions of performance and drawing, often involving people and places in the public realm. He has performed and exhibited across England and Europe, including Manchester's Cornerhouse. He is represented by [England & Co](http://www.englandgallery.com), London.
 
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+![FACE VALUE](Smykla.jpg)

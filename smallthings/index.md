@@ -11,10 +11,10 @@ larkin: false
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+*How often do you talk to teenagers that you don't know? How do you think you may see the world differently if you did?*     
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+ A one-on-one performance that creates a safe space where you can walk and talk with a teenager you've never met before..and ask the questions that you've always wanted to ask, whilst also putting your heads together to solve the problems of the world. Rediscover the honesty of youth and challenge yourself to be optimistic enough to see the world through teenage eyes.    
+ 
+Small Things use creativity, performance and participation to make creative adventures for the uncertain world we live in. We make inventive and beautifully crafted performances, playful adventures and creative experiences, with professional and non-professional performers and artists that take inspiration from the investigation and telling of stories that reflect the world around us.    
+  
+![Small Things](smallthings.jpg)
