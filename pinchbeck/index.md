@@ -6,15 +6,17 @@ title: Sit with me for a moment and remember
 time: 12-5pm
 place: St Ann's Square
 
-hatch: false
+hatch: true
 larkin: false
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+Thank you for joining me on this bench today.     
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+A bench with a plaque reading ‘Sit with me for a moment and remember’ is placed in St Ann’s Square.    
 
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+You are invited to sit on the bench for five minutes to listen to a recording that reflects on what it means to sit for a moment and remember.  
+   
+[For more information on Michael Pinchbeck](http://www.michaelpinchbeck.co.uk)    
+ 
+This performance has been brought on a bus by Hatch, Nottingham’s mobile platform for live art. Part of Hatching Space and supported by the National Lottery through Arts Council England. 

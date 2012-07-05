@@ -6,15 +6,16 @@ title:
 time: 12-5pm
 place: St Ann's Square
 
-hatch: false
+hatch: true
 larkin: false
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+SHRUG ‘happenings’ began with an urge for glamour, a chance to turn monotonous actions into durational acts: performances for everyone to view. The audience is the general public, anyone and everyone who wants to interact is encouraged to do so, or walk by, or stare from afar.    
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+For Hazard, SHRUG respond to the themes and context of the festival and their interactions will reference the themes of travel and holiday.    
 
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+[For more information about Shrug](http://www.shrugladies.com)    
 
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+This performance has been brought on a bus by Hatch, Nottingham’s mobile platform for live art. Part of Hatching Space and supported by the National Lottery through Arts Council England.   
+
