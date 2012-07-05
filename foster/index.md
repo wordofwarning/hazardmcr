@@ -1,7 +1,7 @@
 ---
 layout: artist
 
-artist: Anette Foster
+artist: Annette Foster
 title: Messages from the Big Red Bus
 time: 12-5pm
 place: St Ann's Square
@@ -11,10 +11,8 @@ larkin: false
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+A one-to-one performance that pays homage to travelling fortune-tellers in caravans and crystal balls and tall dark strangers. Your future will be told and your palm read in a 21st Century rendering of the traditional tools.    
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Nottingham-based live artist, Annette Foster, creates multimedia solo performance pieces. She has many diverse forms of expression, performance, live art, video, sound, installation, dance, writing, costume design, painting, drawing and object making.
 
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+This performance has been brought on a bus by Hatch, Nottingham’s mobile platform for live art. Part of Hatching Space and supported by the National Lottery through Arts Council England.
