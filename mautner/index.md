@@ -2,7 +2,7 @@
 layout: artist
 
 artist: Jessica Mautner
-title: may contain nuts
+title: May Contain Nuts
 time: 12-5pm
 place: St Ann's Square
 
@@ -11,10 +11,11 @@ larkin: false
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+*Take your taste buds for a walk on the wild side...*   
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+You are invited to a blind tasting of experimental edibles, where nothing is quite what it seems.     
 
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+*As they say, fortune favours the brave...*	
 
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+A multidisciplinary artist based in Manchester, creating temporary, site-specific sensory encounters. Often as half of louie+jesse, Jessica has made new work in juried residencies, exhibitions and festivals across Europe including Figure Ground, Surface Arts, Chinese Arts Centre, PeerGrouP.nl, Situation Rhubarb, Chorlton Arts Festival, OVNI archive, Wyspa Progress Foundation and Up the Wall.
+
