@@ -3,10 +3,10 @@ layout: artist
 
 artist: Zoo Indigo
 title: Flat Out
-time: 12-5pm
+time: 12-2, 3-5pm
 place: St Ann's Square
 
-hatch: false
+hatch: true
 larkin: false
 
 ---
