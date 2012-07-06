@@ -8,7 +8,7 @@ schedule:
             - {folder: bidolak, name: "Alex Bidolak"}
             - {folder: burn, name: "sean burn"}
             - {folder: burrow, name: "Dangerous Times"}
-            - {folder: foster, name: "Anette Foster"}
+            - {folder: foster, name: "Annette Foster"}
             - {folder: agfkf, name: "Gale-Feeny and Fishman"}
             - {folder: gramophones, name: "The Gramophones"}
             - {folder: hamblen, name: "Martin Hamblen"}
@@ -28,7 +28,7 @@ schedule:
             - {folder: zoo, name: "Zoo Indigo"}
     -   label: "1pm"
         artists:
-            - {folder: cochrane, name: "Claire Cochrane"}
+            - {folder: cochrane, name: "Clare Cochrane"}
             - {folder: jeeves, name: "Tim Jeeves"}
             - {folder: parry, name: "Rachel Parry"}
             - {folder: radeva, name: "Katherina Radeva"}
@@ -36,7 +36,7 @@ schedule:
             - {folder: zoo, name: "Zoo Indigo"}
     -   label: "2pm"
         artists:
-            - {folder: cochrane, name: "Claire Cochrane"}
+            - {folder: cochrane, name: "Clare Cochrane"}
             - {folder: parry, name: "Rachel Parry"}
             - {folder: jeeves, name: "Tim Jeeves"}
             - {folder: smallthings, name: "Small Things"}
