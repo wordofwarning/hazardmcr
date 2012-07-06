@@ -2,7 +2,7 @@ auto: true
 permalink: /:title.html
 
 schedule:
-    -   label: "<em>What's on:</em> All Day"
+    -   label: "<em>What's on:</em><br> All Day"
         artists:
             - {folder: beavis, name: "Amelia Beavis-Harrison"}
             - {folder: bidolak, name: "Alex Bidolak"}
