@@ -16,6 +16,7 @@ schedule:
             - {folder: lembranca, name: "Lembrança UK"}
             - {folder: liquid, name: "Liquid"}
             - {folder: mautner, name: "Jessica Mautner"}
+            - {folder: omalley, name: "Julieann O'Malley"}
             - {folder: pinchbeck, name: "Michael Pinchbeck"}
             - {folder: raven, name: "Simon Raven"}
             - {folder: shrug, name: "Shrug"}
