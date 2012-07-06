@@ -7,42 +7,45 @@ schedule:
             - {folder: beavis, name: "Amelia Beavis-Harrison"}
             - {folder: bidolak, name: "Alex Bidolak"}
             - {folder: burn, name: "sean burn"}
-            - {folder: burrow, name: "Julie Burrow / Dangerous Times"}
-            - {folder: cutter, name: "Gareth Cutter"}
-            - {folder: lembranca, name: "Rea Dennis / Lembrança UK"}
+            - {folder: burrow, name: "Dangerous Times"}
             - {folder: foster, name: "Anette Foster"}
-            - {folder: agfkf, name: "Alice Gale-Feeney and Katherine Fishman"}
+            - {folder: agfkf, name: "Gale-Feeny and Fishman"}
             - {folder: gramophones, name: "The Gramophones"}
             - {folder: hamblen, name: "Martin Hamblen"}
-            - {folder: larkin, name: "Larkin About"}
+            - {folder: larkin, name: "Larkin' About"}
+            - {folder: lembranca, name: "Lembrança UK"}
             - {folder: liquid, name: "Liquid"}
             - {folder: mautner, name: "Jessica Mautner"}
-            - {folder: parry, name: "Rachel Parry"}
             - {folder: pinchbeck, name: "Michael Pinchbeck"}
             - {folder: raven, name: "Simon Raven"}
             - {folder: shrug, name: "Shrug"}
             - {folder: smith, name: "Nicola Smith"}
             - {folder: smykla, name: "Harald Smykla"}
-            - {folder: zoo, name: "Zoo Indigo"}
     -   label: "12pm"
         artists:
-            - {folder: cochrane, name: "Claire Cochrane"}
+            - {folder: parry, name: "Rachel Parry"}
             - {folder: smallthings, name: "Small Things"}
+            - {folder: zoo, name: "Zoo Indigo"}
     -   label: "1pm"
         artists:
-            - {folder: aitchison, name: "Bill Aitchison"}
             - {folder: cochrane, name: "Claire Cochrane"}
-            - {folder: jeeves, name: "Tim Jeeves"}    
+            - {folder: jeeves, name: "Tim Jeeves"}
+            - {folder: parry, name: "Rachel Parry"}
             - {folder: radeva, name: "Katherina Radeva"}
             - {folder: smallthings, name: "Small Things"}
+            - {folder: zoo, name: "Zoo Indigo"}
     -   label: "2pm"
         artists:
-            - {folder: jeeves, name: "Tim Jeeves"} 
+            - {folder: cochrane, name: "Claire Cochrane"}
+            - {folder: parry, name: "Rachel Parry"}
+            - {folder: jeeves, name: "Tim Jeeves"}
             - {folder: smallthings, name: "Small Things"}
     -   label: "3pm"
         artists:
-            - {folder: jeeves, name: "Tim Jeeves"} 
-            - {folder: smallthings, name: "Small Things"}
+            - {folder: aitchison, name: "Bill Aitchison"}
+            - {folder: jeeves, name: "Tim Jeeves"}
+            - {folder: parry, name: "Rachel Parry"}
+            - {folder: zoo, name: "Zoo Indigo"}
     -   label: "4pm"
         artists:
-            - {folder: jeeves, name: "Tim Jeeves"}
+            - {folder: zoo, name: "Zoo Indigo"}
