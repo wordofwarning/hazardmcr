@@ -3,7 +3,7 @@ layout: artist
 
 artist: Bill Aitchison
 title: 2012
-time: 2-3pm
+time: 3-4pm
 place: Outside Marks and Spencer
 
 hatch: false
