@@ -11,7 +11,8 @@ larkin: false
 
 ---
 
-Wearing the iconic orange coveralls synonymous with Guantanamo Bay, a group of performers appear in the public realm, their very presence raising questions about global practices of incarceration, human rights, war crimes, citizenship, and national identity.     
-
-Concept and Design by Rea Dennis and Magda Miranda, Lembrança UK.
-From the Nooks and Crannies Festival (Brisbane 2000) to recent work in Brazil (Pedaços 2012) Rea Dennis's work integrates real stories with improvised performance. Trained in traditional and physical theatre performance, she began to specialise in live improvised performance in 1994 and her work is framed by performed autobiography and memory. She performed regularly in Australia until relocating to UK in 2005.    
+Wearing the iconic orange coveralls synonymous with Guantanamo Bay, a group of performers appear in the public realm, their very presence raising questions about global practices of incarceration, human rights, war crimes, citizenship, and national identity.   
+ 
+Concept and Design by Rea Dennis and Magda Miranda, Lembrança UK. Through the use of image, movement and colour, Lembrança UK explore real material as art in improvised encounters and installations. Drawing on relics, artefacts and (lived) remembered moments their performances resonate with the kinesthetic and sensory perceptions of audience members and open spaces for them to imagine their own part in the narrative.    
+ 
+Dennis (an Australian) and Miranda (a Brazilian) joined forces in 2007 creating the epic performance piece *Train Tracks and Rooftops* that played in USA, UK and Australia (2008-2010). Their work claims to perform memory and seeks to provoke audience members to question who they are.
