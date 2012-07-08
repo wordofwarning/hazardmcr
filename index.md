@@ -16,5 +16,5 @@ For just one day, Manchester's St Ann's Square becomes the hub for random action
 
 If you want to find us, look for the big red bus… or keep your eyes peeled for a flash of yellow and black - anywhere in the Square or beyond.
 
-**Our partners:**   
+### Our partners: 
 **Hatch** is a theatre without a building based in Nottingham and a platform for live art in the East Midlands. Showing unusual work in interesting places, Hatch exists to help performers and audiences to meet and take risks together. **Hatch at Hazard**, and its big red bus, is part of **Hatching Space**, a six month programme of performance-y work around the UK supported using public funding by the National Lottery through Arts Council England.
