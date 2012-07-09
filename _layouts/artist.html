@@ -4,10 +4,8 @@ assetpath: "../assets"
 rootpath: "../"
 ---
 	<article class="artiste">
-
 		<div class="container">
-			<div class="two-thirds column">
-				<div class="show">
+			<div class="sixteen columns show">
 					{% if page.hatch %}
 						<a href="http://hatchnottingham.co.uk"><img src="../assets/images/hatch.png" alt=""></a>
 					{% endif %}
@@ -17,7 +15,10 @@ rootpath: "../"
 					<h1>{{ page.artist }}</h1>
 					<h1><em>{{ page.title }}</em></h1>
 					<h2 class="details"><strong>{{ page.time }}</strong> {{ page.place }}</h2>
-				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="two-thirds column">
 				<div class="bodycopy">
 					{{ content }}
 				</div>
