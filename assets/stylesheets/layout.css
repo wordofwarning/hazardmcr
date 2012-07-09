@@ -59,6 +59,8 @@ header h3
 	{margin: 0px 0 10px 0;}
 .bodycopy
 	{font-size:21px; line-height:27px;}
+.bodycopy img
+	{border:8px solid white; -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); max-width:90%;}
 .artiste .programme
 	{margin-top:25px;}
 .programme
