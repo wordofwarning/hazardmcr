@@ -1,7 +1,7 @@
 ---
 layout: artist
 
-artist: Alice Gale-Feeney and Katherine Fishman
+artist: Alice Gale-Feeney &amp; Katherine Fishman
 title: Nothing Like This To Increase The Adrenaline Rush of the Crowd 
 time: 12-5pm
 place: St Ann's Square
