@@ -21,4 +21,4 @@ If you want to find us, look for the big red bus… or keep your eyes peeled for
 **Hatch** is a theatre without a building based in Nottingham and a platform for live art in the East Midlands. Showing unusual work in interesting places, Hatch exists to help performers and audiences to meet and take risks together. **Hatch at Hazard**, and its big red bus, is part of **Hatching Space**, a six month programme of performance-y work around the UK supported using public funding by the National Lottery through Arts Council England.
 
 <img src="assets/images/larkin.png" alt="Larkin About" class="inline">
-Reinventing Manchester's playtime, **Larkin' About** hosts a series of gaming events through the year.  Events see players chasing and racing, searching and collecting, and code-breaking and puzzle-solving in a series of games and playful experiences.
+Reinventing playtime, **Larkin' About** hosts gaming events throughout the year.  Events see players chasing + racing, searching + collecting, code-breaking + puzzle-solving in a series of playful experiences.
