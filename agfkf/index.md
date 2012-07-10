@@ -11,6 +11,6 @@ larkin: false
 
 ---
 
-Part performance, part demonstration, *Nothing Like This To Increase The Adrenaline Rush of the Crowd* challenges the role of the consumer in modern day society. The audience will be treated as a general public in the same way shoppers gather around a promotional trolley in a shopping mall. Gale-Feeny and Fishman ask the public to question what they are being sold and why they are being seduced.     
+This novelty demo event takes the notion and object of a siren, within the context of safety product promotion, game shows, and shopping channels. Capitalising on unlikely events and eccentric uses is a key element within the marketing of these products. For one day only, this pop-up duo will speculate around imagined eventualities, scenarios and product specifications, examining how a performance presentation is framed from within and beyond the perspective of the camera operator.    
 
-This performance has been brought on a bus by Hatch, Nottingham’s mobile platform for live art. Part of Hatching Space and supported by the National Lottery through Arts Council England.   
+Alice Gale-Feeny and Katherine Fishman obtained their Fine Art degrees at Nottingham Trent University. Most recently they curated an exhibition examining how language, speech-delivery and gesture alter between the media of performance and video.
