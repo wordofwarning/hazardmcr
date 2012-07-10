@@ -2,7 +2,7 @@
 layout: artist
 
 artist: Larkin' About
-title: Show Title
+title: 
 time: 12-5pm
 place: St Ann's Square
 
@@ -11,10 +11,4 @@ larkin: true
 
 ---
 
-This bit is about the show. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
-
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-This bit is about the artist. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+Larkin' About is excited to be bringing a flurry of playful events to this year's Hazard.Reinventing Manchester's playtime, Larkin' About hosts a series of gaming events through the year.  If you see a covert phone call taking place, a giddy team of players sneaking past, or an unsuspecting member of the public on a tour of the secret side of the city -   you've found us!  Players will be chasing and racing, searching and collecting, and code-breaking and puzzle-solving in a series of games through St Ann's Square.  Bring stealth, energy, and a sense of play.Come and find us at the desk next to the bus - we'll have your missions ready...Full programme details will be published here leading up to the event. For more details about [Larkin' About ](http://www.larkin-about.co.uk)
