@@ -4,7 +4,7 @@ layout: artist
 artist: Bill Aitchison
 title: 2012
 time: 3-4pm
-place: Corner of St Mary's Gate + New Cathedral Street
+place: Corner of St Mary's Gate and New Cathedral Street
 
 hatch: false
 larkin: false
