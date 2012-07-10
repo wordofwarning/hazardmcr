@@ -22,12 +22,12 @@ schedule:
             - {folder: shrug, name: "Shrug"}
             - {folder: smith, name: "Nicola Smith"}
             - {folder: smykla, name: "Harald Smykla"}
-    -   label: "12pm"
+    -   label: "12-1pm"
         artists:
             - {folder: parry, name: "Rachel Parry"}
             - {folder: smallthings, name: "Small Things"}
             - {folder: zoo, name: "Zoo Indigo"}
-    -   label: "1pm"
+    -   label: "1-2pm"
         artists:
             - {folder: cochrane, name: "Clare Cochrane"}
             - {folder: jeeves, name: "Tim Jeeves"}
@@ -35,18 +35,18 @@ schedule:
             - {folder: radeva, name: "Katherina Radeva"}
             - {folder: smallthings, name: "Small Things"}
             - {folder: zoo, name: "Zoo Indigo"}
-    -   label: "2pm"
+    -   label: "2-3pm"
         artists:
             - {folder: cochrane, name: "Clare Cochrane"}
             - {folder: parry, name: "Rachel Parry"}
             - {folder: jeeves, name: "Tim Jeeves"}
             - {folder: smallthings, name: "Small Things"}
-    -   label: "3pm"
+    -   label: "3-4pm"
         artists:
             - {folder: aitchison, name: "Bill Aitchison"}
             - {folder: jeeves, name: "Tim Jeeves"}
             - {folder: parry, name: "Rachel Parry"}
             - {folder: zoo, name: "Zoo Indigo"}
-    -   label: "4pm"
+    -   label: "4-5pm"
         artists:
             - {folder: zoo, name: "Zoo Indigo"}
