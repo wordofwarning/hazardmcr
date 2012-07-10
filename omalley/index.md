@@ -4,14 +4,14 @@ layout: artist
 artist: Julieann O'Malley
 title: Tour of Duty
 time: 12-5pm
-place: St Ann's Square
+place: "City Centre, despatch point St Ann's Square"
 
 hatch: false
 larkin: false
 
 ---
 
-200 soldiers have completed their tours of duty, but now find themselves in yet more unfamiliar territory.    
+200 soldiers have completed their tours of duty, but now find themselves in even more unfamiliar territory.    
        
 Left alone to fend for themselves, the soldiers' new mission is to conquer and survive the urban landscape of Manchester.     
 
