@@ -11,10 +11,10 @@ larkin: false
 
 ---
 
-1-1.45pm Piccadilly Gardens   
-2-2.45pm St Ann's Square   
+**1-1.45pm Piccadilly Gardens   
+2-2.45pm St Ann's Square**   
 
-A group of protesters, placards and banners in hand, cluster together in usual formation… Seemingly without cause, they beg the question "what are you protesting?" Blurring the boundaries of art and activism they invite you to break out of your apathy and join them in a new demonstration of democracy.   
+A group of protesters, placards and banners in hand, cluster together in typical formation… Seemingly without cause, they beg the question "what are you protesting?" Blurring the boundaries of art and activism they invite you to break out of your apathy and join them in a new demonstration of democracy.   
 
 ![Democracy Outside](demo2.jpg)
 

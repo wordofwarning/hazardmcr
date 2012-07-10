@@ -11,8 +11,8 @@ larkin: false
 
 ---
 
-A one-to-one performance that pays homage to travelling fortune-tellers in caravans and crystal balls and tall dark strangers. Your future will be told and your palm read in a 21st Century rendering of the traditional tools.    
+Signs, Symbols and astrology for some are like a set of co-ordinates to an unknown destination. Experience an eccentric take on your traditional visit to the fortune teller in a big red bus, and receive a message from the sky. The phone is ringing for you....... will you make it to the phone booth on time?    
 
-Nottingham-based live artist, Annette Foster, creates multimedia solo performance pieces. She has many diverse forms of expression, performance, live art, video, sound, installation, dance, writing, costume design, painting, drawing and object making.
+Over the past twelve years Annette Foster has created multimedia solo performance art and video pieces. The content of her work has grown from an autobiographical view of psychological and emotional life to a more curious mix of feminism, identity, gender, difference and sexuality. Annette has exhibited her work regionally, nationally and internationally including; Arizona, Washington, Chicago, Colorado, Nottingham, Leicester, Hull, Derby, Bristol, Manchester, Glasgow and Dieppe, France.    
 
-This performance has been brought on a bus by Hatch, Nottingham’s mobile platform for live art. Part of Hatching Space and supported by the National Lottery through Arts Council England.
+![Annette Foster](annette.jpg)
