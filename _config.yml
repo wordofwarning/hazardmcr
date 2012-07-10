@@ -19,7 +19,7 @@ schedule:
             - {folder: omalley, name: "Julieann O'Malley"}
             - {folder: pinchbeck, name: "Michael Pinchbeck"}
             - {folder: raven, name: "Simon Raven"}
-            - {folder: shrug, name: "Shrug"}
+            - {folder: shrug, name: "SHRUG"}
             - {folder: smith, name: "Nicola Smith"}
             - {folder: smykla, name: "Harald Smykla"}
     -   label: "12-1pm"
