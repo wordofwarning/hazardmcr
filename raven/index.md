@@ -17,4 +17,5 @@ It is a comment on the idea of the stay-cation and the ironic act of going on a 
 
 [For more information on Simon Raven](http://www.nevarnomis.com)    
 
+![Simon Raven](raven.jpg)
 
