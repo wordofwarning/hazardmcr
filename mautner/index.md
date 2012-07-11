@@ -3,7 +3,7 @@ layout: artist
 
 artist: Jessica Mautner
 title: May Contain Nuts
-time: 12-5pm
+time: "12-2pm and 3-5pm"
 place: St Ann's Square
 
 hatch: false
