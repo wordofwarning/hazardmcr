@@ -18,5 +18,7 @@ A one-on-one performance that creates a safe space where you can walk and talk w
 Rediscover the honesty of youth and challenge yourself to be optimistic enough to see the world through teenage eyes.    
  
 Small Things is a company making creative adventures that revel in the challenge and joy of existence. They make inventive and beautifully crafted performances and playful experiences.     
-  
+
+[For more info about Small Things](http://www.smallthings.org.uk)
+
 ![Small Things](smallthings.jpg)
