@@ -15,7 +15,6 @@ schedule:
             - {folder: larkin, name: "Larkin' About"}
             - {folder: lembranca, name: "Lembrança UK"}
             - {folder: liquid, name: "Liquid"}
-            - {folder: mautner, name: "Jessica Mautner"}
             - {folder: omalley, name: "Julieann O'Malley"}
             - {folder: pinchbeck, name: "Michael Pinchbeck"}
             - {folder: raven, name: "Simon Raven"}
@@ -24,6 +23,7 @@ schedule:
             - {folder: smykla, name: "Harald Smykla"}
     -   label: "12-1pm"
         artists:
+            - {folder: mautner, name: "Jessica Mautner"}
             - {folder: parry, name: "Rachel Parry"}
             - {folder: smallthings, name: "Small Things"}
             - {folder: zoo, name: "Zoo Indigo"}
@@ -31,6 +31,7 @@ schedule:
         artists:
             - {folder: cochrane, name: "Clare Cochrane"}
             - {folder: jeeves, name: "Tim Jeeves"}
+            - {folder: mautner, name: "Jessica Mautner"}
             - {folder: parry, name: "Rachel Parry"}
             - {folder: radeva, name: "Katherina Radeva"}
             - {folder: smallthings, name: "Small Things"}
@@ -45,8 +46,10 @@ schedule:
         artists:
             - {folder: aitchison, name: "Bill Aitchison"}
             - {folder: jeeves, name: "Tim Jeeves"}
+            - {folder: mautner, name: "Jessica Mautner"}
             - {folder: parry, name: "Rachel Parry"}
             - {folder: zoo, name: "Zoo Indigo"}
     -   label: "4-5pm"
         artists:
+            - {folder: mautner, name: "Jessica Mautner"}
             - {folder: zoo, name: "Zoo Indigo"}
