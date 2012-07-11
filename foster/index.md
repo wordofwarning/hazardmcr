@@ -11,8 +11,9 @@ larkin: false
 
 ---
 
-Signs, symbols and astrology for some are like a set of co-ordinates to an unknown destination. Experience an eccentric take on your traditional visit to the fortune teller in a big red bus, and receive a message from the sky. The phone is ringing for you... will you make it to the phone booth on time?    
+A one-to-one performance that pays homage to travelling fortune-tellers in caravans, crystal balls and tall dark strangers. Your future will be told and your palm read in a 21st Century rendering of the traditional tools of fortune-telling.   
+Over the past twelve years Annette Foster has created multimedia solo performance art and video pieces. The content of her work has grown from an autobiographical view of psychological and emotional life to a more curious mix of feminism, identity, gender, difference and sexuality. Annette has exhibited her work regionally, nationally and internationally including; Arizona, Washington, Chicago, Colorado, Nottingham, Leicester, Hull, Derby, Bristol, Manchester, Glasgow and Dieppe, France.   
 
-Over the past twelve years Annette Foster has created multimedia solo performance art and video pieces. The content of her work has grown from an autobiographical view of psychological and emotional life to a more curious mix of feminism, identity, gender, difference and sexuality. Annette has exhibited her work regionally, nationally and internationally including: Arizona, Washington, Chicago, Colorado, Nottingham, Leicester, Hull, Derby, Bristol, Manchester, Glasgow and Dieppe, France.    
+[For more information about Annette](http://www.nettypage.org)
 
 ![Annette Foster](annette.jpg)
