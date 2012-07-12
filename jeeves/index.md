@@ -11,12 +11,12 @@ larkin: false
 
 ---
 
-*What does it mean to give something that harms the recipient? To make a gift of something that hurts?*       
+*What does it mean to give something that harms the recipient? To make a gift of something that hurts?*    
 
-Cigarettes are one of the most readily given gifts. So much so that we barely recognise them as such. Stand outside most pubs on a Saturday night and you won't have to wait long to hear someone ask for a fag.    
-     
-Throughout the afternoon, Tim Jeeves is offering cigarettes to whoever wants to join him, inviting the public to sacrifice themselves in order to make his art.   
+Cigarettes are one of the most readily given gifts. So much so that we barely recognise them as such. Stand outside most pubs on a Saturday night and you won't have to wait long to hear someone ask for a fag.  
+   
+Throughout the afternoon, Tim Jeeves is offering cigarettes to whoever wants to join him, inviting the public to sacrifice themselves in order to make his art.  
 	
-Tim Jeeves is a Liverpool based artist who has presented work throughout the UK and internationally.   Co-founder of the Grunts for the Arts collective, his recent solo work has addressed economies of gift and generosity and include curating and producing the Giving in to Gift platform in Liverpool.   
+Tim Jeeves is a Liverpool based artist who has presented work throughout the UK and internationally. Co-founder of the Grunts for the Arts collective, his recent solo work has addressed economies of gift and generosity and include curating and producing the Giving in to Gift platform in Liverpool.  
 
 ![Dying for my Art](TimJeeves.jpg)
