@@ -12,6 +12,7 @@ larkin: false
 ---
 
 A battle for political domination fought with wit, cunning and stoic determination. 
+
 Heraldic symbols of England and Scotland, the Lion and the Unicorn embody the auld enemies, squaring up for the final struggle for independence.      
 
 *Choose your side, stand and fight, back the winner and make sure that, what ever happens, you stand your ground.*
