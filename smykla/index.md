@@ -15,6 +15,6 @@ A much-needed contemporary makeover for our paper currency, 'still graced by fea
 
 For one afternoon, British money can claim to represent the diversity of British society in the 21st century.	   
 
-Harald Smykla is a German artist based in London. His time- and context-specific practice merges notions of performance and drawing, often involving people and places in the public realm. He has performed and exhibited across England and Europe, including Manchester's Cornerhouse. He is represented by [England & Co](http://www.englandgallery.com), London.
+Harald Smykla is a German artist based in London. His time and context specific practice merges notions of performance and drawing, often involving people and places in the public realm. He has performed and exhibited across England and Europe, including Manchester's Cornerhouse. He is represented by [England & Co](http://www.englandgallery.com), London.
 
 ![FACE VALUE](Smykla.jpg)

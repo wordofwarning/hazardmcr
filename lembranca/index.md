@@ -4,7 +4,7 @@ layout: artist
 artist: Lembrança UK
 title: Guantanamo Presence
 time: 12-5pm
-place: St Ann's Square
+place: City Centre roaming
 
 hatch: false
 larkin: false

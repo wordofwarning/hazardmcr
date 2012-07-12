@@ -13,7 +13,8 @@ larkin: false
 
 *From extreme couponing to the daily deal site - we're all after a bargain..!*   
 
-For one day only *YOUPON* offers the ultimate deal.. better-than-discounted (free!) experiences, yours for the taking:  'outdoor adventure breaks', a 'top notch meal' and 'arts and crafts workshops'.     
+For one day only *YOUPON* offers the ultimate deal...     
+Better-than-discounted (free!) experiences, yours for the taking:  'outdoor adventure breaks', a 'top notch meal' and 'arts and crafts workshops'.     
 
 *Meet new people, develop your skills and have fun!* 
 
