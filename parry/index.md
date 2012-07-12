@@ -2,7 +2,7 @@
 layout: artist
 
 artist: Rachel Parry
-title: Reclaiming
+title: Re-Claiming
 time: 12-4pm
 place: St Ann's Square
 
@@ -11,8 +11,11 @@ larkin: false
 
 ---
 
-A durational live art still life, using re-located sand from Skegness and recycled super-8 footage from the artist’s family archives; as a ‘man-made’ beach, the body becomes a site to explore memories and nostalgia, and ethics of transformation, ritual and regeneration.       
-Rachel Parry’s artwork is concerned with belonging and rejection, exploring the ever-changing relationship between artist and audience. She is interested in the boundaries of how an intimate relationship can quickly be formed with complete strangers. She asks how can she make an audience member feel a sense of love, security or empathy and where does this place “Us” as Artists?      
+Last week Rachel Parry re-visited her childhood holiday destination of Skegness and confronting distorted memories. She decided to ‘steal’ the beach. Using the re-located sand, she transforms the site to become a ‘man-made’ beach, with her buried alive within it.     
+
+The body becomes a durational live art piece; a breathing still life, exploring nostalgia, ritual and regeneration. Parry works through the ideas physically, as she is weighed down, to express our current cultural and political situation and the omnipresent fears of an uncertain future.
+
+Rachel Parry is a multidisciplinary artist, educator and a studio member of Backlit Artist studios and Gallery in Nottingham. Parry’s artwork is concerned with belonging and rejection, exploring the ever-changing relationship between artist and audience. Parry creates surreal, raw, powerful and tactile experiences within the realms of live art practice. Attempting to transform the space between the artwork and the audience, finding both dark and sometimes humorous moments.  
 [For more information about Rachel Parry](http://contemporaryperformance.org/profile/RachelParry)     
 
 ![Rachel Parry](Parry1.jpg)
