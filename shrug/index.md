@@ -2,7 +2,7 @@
 layout: artist
 
 artist: SHRUG
-title: SHRUG Ladies sun safety
+title: Sun Safety
 time: 12-5pm
 place: St Ann's Square
 
