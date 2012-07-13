@@ -11,7 +11,7 @@ larkin: true
 
 ---
 
-Larkin' About is excited to be bringing a flurry of playful events to this year's Hazard.           
+Larkin' About is excited to be bringing a flurry of playful events to this year's Hazard.     
 Players will be chasing and racing, searching and collecting, and code-breaking and puzzle-solving in a series of games around St Ann's Square. Bring stealth, energy, and a sense of play.     
 
 **Come and find us at the desk next to the bus - we'll have your missions ready...**    
