@@ -11,7 +11,7 @@ larkin: false
 
 ---
 
-Last week Rachel Parry re-visited her childhood holiday destination of Skegness and confronting distorted memories. She decided to ‘steal’ the beach. Using the re-located sand, she transforms the site to become a ‘man-made’ beach, with her buried alive within it.     
+Last week Rachel Parry re-visited her childhood holiday destination of Skegness and, confronting distorted memories, she decided to ‘steal’ the beach. Using the re-located sand, she transforms the site to become a ‘man-made’ beach, with her buried alive within it.     
 
 The body becomes a durational live art piece; a breathing still life, exploring nostalgia, ritual and regeneration. Parry works through the ideas physically, as she is weighed down, to express our current cultural and political situation and the omnipresent fears of an uncertain future.
 
