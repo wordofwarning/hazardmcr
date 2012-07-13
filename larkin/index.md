@@ -39,3 +39,7 @@ So you want to be a spy? You want hidden microphones, shadowy meetings, secret c
 Reinventing Manchester's playtime, Larkin' About hosts a series of gaming events throughout the year. If you see a covert phone call taking place, a giddy team of players sneaking past, or an unsuspecting member of the public on a tour of the secret side of the city -   you've found us!     
   [@larkinmcr](http://www.twitter.com/larkinmcr)      
 
+![Labolis](labolis.jpg)
+![mixtape](mixtape.jpg)
+![Spy School](spy_school.jpg)
+![Hacked Off](hacked_off.jpg)
