@@ -35,9 +35,14 @@ So you want to be a spy? You want hidden microphones, shadowy meetings, secret c
 >“Our intentions were good, our intentions were honourable.”*Paul McMullan, Former News of the World journalist*     
 
 *Hacked Off!* sees players chase a series of phone calls in a frenzied search for fragments of hidden information.  Competing for work at an unscrupulous paper, players are cast as Private Investigators and set out to find and reveal sensitive information, whilst remaining discreet to ensure stories of dishonourable behaviour don't get pinned to them by fellow players.  In the light of the UK's Phone Hacking scandal, *Hacked Off!* is a playful reflection on what and who can and cannot be trusted, and the nature of information in the public realm.     
-  
+
+**3pm**     
+*Not An Elephant* by **Jess Jackson**     
+You are an elephant. No, really. You are. But it's a secret. You must admit this to NO ONE, least of all The Hunter.  An allegorical, inconspicuous social game of wits, lies, deceit, keeping your cool and avoiding a Mouse.         
+
+
 Reinventing Manchester's playtime, Larkin' About hosts a series of gaming events throughout the year. If you see a covert phone call taking place, a giddy team of players sneaking past, or an unsuspecting member of the public on a tour of the secret side of the city -   you've found us!     
-  [@larkinmcr](http://www.twitter.com/larkinmcr)      
+[@larkinmcr](http://www.twitter.com/larkinmcr)      
 
 ![Labolis](labolis.jpg)    
 
@@ -46,3 +51,5 @@ Reinventing Manchester's playtime, Larkin' About hosts a series of gaming events
 ![Spy School](spy_school.jpg)    
 
 ![Hacked Off](hacked_off.jpg)    
+
+![Not An Elephant](notanelephant.gif)
