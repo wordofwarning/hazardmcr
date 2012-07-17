@@ -22,7 +22,7 @@ Players will be chasing and racing, searching and collecting, and code-breaking 
 A secret is submerged at the heart of the city. Be transformed into a riddle solver, clue seeker and urban archaeologist for LABOLIS, a short inner city mystery. Don your finest thinking cap and make sure all your senses are sharpened as a long forgotten "missing persons" is unravelled around St Ann's Square.
 
 **12-5pm**      
-*Mixtape* by [**@vee_uye**](http://www.twitter.com/vee_uye)    
+*Mixtape* by [**Vee Uye**](http://www.twitter.com/vee_uye)    
 *Mixtape* is a retro-audio treasure hunt with a soundtrack that takes you around St Ann's Square and into the puzzle of our hearts. Players navigate the space with analogue personal stereos and augment the narrative with their own memories.     
 *Mixtape* n: a compilation of favourite pieces of music, typically by many different artists, recorded on to tape or another medium by an individual.
 
