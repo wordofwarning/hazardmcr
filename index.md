@@ -2,7 +2,7 @@
 
 layout: homepage
 
-bigtext: "Welcome to Hazard 2012, Manchester's biennial microfestival of incidental intervention and spreeful scootery.  Now with added Hatch and Larkin'!"
+bigtext: "Welcome to Hazard 2012, Manchester's biennial random sprees of eccentricity.  We're now counting down the hours til we burst into the City Centre in a yellow stripey blaze!"
 
 ---
 
@@ -15,6 +15,8 @@ See the world through teen eyes, locate a missing soldier, make your protest or 
 For just one day, Manchester's St Ann's Square becomes the hub for random actions, strange antics and ludic activities.    
 
 If you want to find us, look for the big red bus… or keep your eyes peeled for a flash of yellow and black - anywhere in the Square or beyond.
+
+And while you're in the vicinity, don't forget to check out the [Truth About Youth Festival](http://www.royalexchange.co.uk/TaY.aspx?page=796) in the Royal Exchange Theatre. 
 
 ### Our partners:
 <img src="assets/images/hatch.png" alt="Hatch" class="inline"> 
