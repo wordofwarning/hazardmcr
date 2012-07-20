@@ -2,7 +2,7 @@
 
 layout: homepage
 
-bigtext: "Welcome to Hazard 2012, Manchester's biennial spree of eccentricity.  We're now counting down the hours til we burst into the City Centre in a yellow stripey blaze!"
+bigtext: "Welcome to Hazard, Manchester's biennial spree of eccentricity.  We're now counting down the hours til we burst into the City Centre in a yellow stripey blaze!"
 
 ---
 
