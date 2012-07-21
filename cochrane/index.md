@@ -4,7 +4,7 @@ layout: artist
 artist: Claire Cochrane
 title: Democracy Outside
 time: 2-3pm
-place: Piccadilly Gardens / St Ann's Sq
+place: St Ann's Sq
 
 hatch: false
 larkin: false
