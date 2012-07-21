@@ -29,7 +29,6 @@ schedule:
             - {folder: zoo, name: "Zoo Indigo"}
     -   label: "1-2pm"
         artists:
-            - {folder: cochrane, name: "Clare Cochrane"}
             - {folder: jeeves, name: "Tim Jeeves"}
             - {folder: mautner, name: "Jessica Mautner"}
             - {folder: parry, name: "Rachel Parry"}
