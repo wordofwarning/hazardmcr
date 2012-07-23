@@ -2,7 +2,7 @@
 
 layout: homepage
 
-bigtext: "Thanks to all artists, stewards, technicians and everybody who came, saw and joined in with Hazard for making a fantastic day.  That's it for another two years - but check back here soon for images from the day."
+bigtext: "Thanks to all artists, stewards, technicians and everybody who came, saw and joined in with Hazard, for making it a fantastic day.  That's it for another two years - but check back here soon for images from the day."
 
 ---
 
