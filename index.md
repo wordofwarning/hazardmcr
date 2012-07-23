@@ -2,7 +2,7 @@
 
 layout: homepage
 
-bigtext: "Welcome to Hazard, Manchester's biennial spree of eccentricity.  We're now counting down the hours til we burst into the City Centre in a yellow stripey blaze!"
+bigtext: "Thanks to all artists, stewards, technicians and everybody who came, saw and joined in with Hazard for making a fantastic day.  That's it for another two years - but check back here soon for images from the day."
 
 ---
 
